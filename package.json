@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "npm --prefix jerseylab run dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.6"
+  }
+}
